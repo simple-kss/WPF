@@ -1,0 +1,15 @@
+C:\Users\kss78\source\repos\WpfApp4(Material)\WpfApp4(Material)\bin\Debug\WpfApp4(Material).exe.config
+C:\Users\kss78\source\repos\WpfApp4(Material)\WpfApp4(Material)\bin\Debug\WpfApp4(Material).exe
+C:\Users\kss78\source\repos\WpfApp4(Material)\WpfApp4(Material)\bin\Debug\WpfApp4(Material).pdb
+C:\Users\kss78\source\repos\WpfApp4(Material)\WpfApp4(Material)\obj\Debug\MainWindow.g.cs
+C:\Users\kss78\source\repos\WpfApp4(Material)\WpfApp4(Material)\obj\Debug\App.g.cs
+C:\Users\kss78\source\repos\WpfApp4(Material)\WpfApp4(Material)\obj\Debug\WpfApp4(Material)_MarkupCompile.cache
+C:\Users\kss78\source\repos\WpfApp4(Material)\WpfApp4(Material)\obj\Debug\WpfApp4(Material)_MarkupCompile.lref
+C:\Users\kss78\source\repos\WpfApp4(Material)\WpfApp4(Material)\obj\Debug\MainWindow.baml
+C:\Users\kss78\source\repos\WpfApp4(Material)\WpfApp4(Material)\obj\Debug\WpfApp4(Material).g.resources
+C:\Users\kss78\source\repos\WpfApp4(Material)\WpfApp4(Material)\obj\Debug\WpfApp4_Material_.Properties.Resources.resources
+C:\Users\kss78\source\repos\WpfApp4(Material)\WpfApp4(Material)\obj\Debug\WpfApp4(Material).csproj.GenerateResource.cache
+C:\Users\kss78\source\repos\WpfApp4(Material)\WpfApp4(Material)\obj\Debug\WpfApp4(Material).csproj.CoreCompileInputs.cache
+C:\Users\kss78\source\repos\WpfApp4(Material)\WpfApp4(Material)\obj\Debug\WpfApp4(Material).exe
+C:\Users\kss78\source\repos\WpfApp4(Material)\WpfApp4(Material)\obj\Debug\WpfApp4(Material).pdb
+C:\Users\kss78\source\repos\WpfApp4(Material)\WpfApp4(Material)\obj\Debug\WpfApp4(Material).csproj.AssemblyReference.cache
